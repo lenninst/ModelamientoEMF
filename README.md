@@ -4,7 +4,7 @@ La solucion se muestran  los archivos resultados y resultado2
 En la carpeta ProyectoModelamiento.ipynb esta el código para generar creado en GoogleColab. 😏🔥
 
 
-###Resultados 
+### Resultados obtenidos al generar código .py usando 'pyecorege'
 
 ```py
 """Definition of meta model 'Metamodelo'."""
