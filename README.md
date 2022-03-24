@@ -283,7 +283,7 @@ class Agregacion(Referencia):
         if clase is not None:
             self.clase = clase
 
-``
+```
 # De este es el resultado denerado en archivo ini.py
 ```py
 
